@@ -1,4 +1,4 @@
-# María Risco — Labs
+# Risco's — Labs
 
 Geo-data projects for environmental monitoring (natural resources + pollution-related impacts across energy, mining, and transport).
 
