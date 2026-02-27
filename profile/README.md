@@ -1,4 +1,4 @@
-# Risco's — Labs
+# Nardiz — Labs
 
 Geo-data projects for environmental monitoring (natural resources + pollution-related impacts across energy, mining, and transport).
 
