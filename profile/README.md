@@ -10,6 +10,7 @@ I work at the intersection of:
 ## Featured projects
 - Flood mapping (Sentinel-1 SAR): https://github.com/mariarisco-labs/flood-mapping-sentinel-1-sar
 - Deforestation monitoring (LandTrend) — EDA & insights: https://github.com/mariarisco-labs/deforestation-monitoring-insights
+- Forest disturbance monitoring in GEE (LandTrendr + CCDC): https://github.com/mariarisco-labs/forest-disturbance-monitoring-gee
 
 ## What you’ll find here
 - Monitoring workflows (EO/SAR) and geo-data pipelines
